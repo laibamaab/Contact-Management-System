@@ -21,7 +21,7 @@ Before running the program, make sure you have:
 ## File Structure
 - `main.cpp` – Contains the program’s main function, menu, and choice handling.
 - `contact.h` – Header file containing the `Contact` class and related function declarations.
-- `contact.cpp` *(not shown here)* – Contains the implementation of `addContact`, `viewContacts`, and `deleteContact`.
+- `contact.cpp` - Contains the implementation of `addContact`, `viewContacts`, and `deleteContact`.
 
 ## How to Compile and Run
 1. Place all source files (`main.cpp`, `contact.h`, `contact.cpp`) in the same directory.
@@ -65,6 +65,3 @@ Before running the program, make sure you have:
 ## License
 
 This project is provided for educational purposes.
-
-If you want, I can also make a **shorter, portfolio-friendly README** that summarizes this for quick showcasing.
-
